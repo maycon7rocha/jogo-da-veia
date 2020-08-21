@@ -76,7 +76,7 @@ function TicTacToe() {
           <h1 className="title">Jogo da Véia</h1>
         </div>
       </div>
-      <div className="row small text-center">
+      <div className="row small text-center ">
         <div className="col-sm-12">
           <button className="btn-sm" onClick={resetGame}>Recomeçar Jogo!</button>
           <h6 className="pt-2">Pontuação: O = {pontuacaoO}  X = {pontuacaoX}  Empate = {pontuacaoE}</h6>
