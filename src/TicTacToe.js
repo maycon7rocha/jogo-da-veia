@@ -73,7 +73,7 @@ function TicTacToe() {
     <div className="container ">
       <div className="row">
         <div className="col-sm-12">
-          <h1 className="title">Jogo da Velha</h1>
+          <h1 className="title">Jogo da Véia</h1>
         </div>
       </div>
       <div className="row small text-center">
